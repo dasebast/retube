@@ -1,0 +1,12 @@
+{
+  "extends": ["standard", "standard-react"],
+  "plugins": [
+      "standard"
+  ],
+  "rules": {
+    "comma-dangle": [2, "always-multiline"]
+  },
+  "globals": {
+    "colors": true
+  }
+}
